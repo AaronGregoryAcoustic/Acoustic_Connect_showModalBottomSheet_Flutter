@@ -1,0 +1,47 @@
+PODS:
+  - AcousticConnectDebug (1.0.70):
+    - AcousticConnectDebug/Core (= 1.0.70)
+  - AcousticConnectDebug/Core (1.0.70):
+    - TealeafDebug
+  - connect_flutter_plugin (2.38.0):
+    - AcousticConnectDebug
+    - Flutter
+  - EOCoreDebug (2.3.325)
+  - Flutter (1.0.0)
+  - package_info_plus (0.4.5):
+    - Flutter
+  - TealeafDebug (10.6.327):
+    - TealeafDebug/Core (= 10.6.327)
+  - TealeafDebug/Core (10.6.327):
+    - EOCoreDebug
+
+DEPENDENCIES:
+  - connect_flutter_plugin (from `.symlinks/plugins/connect_flutter_plugin/ios`)
+  - Flutter (from `Flutter`)
+  - package_info_plus (from `.symlinks/plugins/package_info_plus/ios`)
+
+SPEC REPOS:
+  trunk:
+    - AcousticConnectDebug
+    - EOCoreDebug
+    - TealeafDebug
+
+EXTERNAL SOURCES:
+  connect_flutter_plugin:
+    :path: ".symlinks/plugins/connect_flutter_plugin/ios"
+  Flutter:
+    :path: Flutter
+  package_info_plus:
+    :path: ".symlinks/plugins/package_info_plus/ios"
+
+SPEC CHECKSUMS:
+  AcousticConnectDebug: 5dd93cfd87bad7a1b8fccaab8ac2e4ee3106ea4a
+  connect_flutter_plugin: 452251c50d6f7cc2c3916822d970d5cc34aed7ae
+  EOCoreDebug: 63a64dc2834bd2a90f0c4041ac325b8b98a54d9e
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  package_info_plus: c0502532a26c7662a62a356cebe2692ec5fe4ec4
+  TealeafDebug: 5f716b7dc4790ceb361f58d5b948a6b3d317aff0
+
+PODFILE CHECKSUM: 251cb053df7158f337c0712f2ab29f4e0fa474ce
+
+COCOAPODS: 1.16.2

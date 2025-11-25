@@ -1,0 +1,2 @@
+Note: /Users/m3055099280/.pub-cache/hosted/pub.dev/connect_flutter_plugin-2.36.5-beta/android/src/main/java/com/example/connect_flutter_plugin/ConnectFlutterPlugin.java uses or overrides a deprecated API.
+Note: Recompile with -Xlint:deprecation for details.
